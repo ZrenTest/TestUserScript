@@ -4,3 +4,4 @@
 // ==/UserScript==
 
 var cake = 'lie';
+var test;
